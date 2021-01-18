@@ -1,0 +1,16 @@
+{
+  "name": "discordnitrosniper",
+  "version": "1.0.0",
+  "description": "Autom claims Nitro's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sentox#2002",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^11.6.4",
+    "nitro-sniper": "^1.0.5"
+  }
+}
